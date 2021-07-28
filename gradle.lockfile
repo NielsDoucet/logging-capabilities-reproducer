@@ -1,0 +1,26 @@
+# This is a Gradle generated file for dependency locking.
+# Manual edits can break the build and are not advised.
+# This file is expected to be part of source control.
+ch.qos.logback:logback-classic:1.2.4=default,runtimeClasspath,testRuntimeClasspath
+ch.qos.logback:logback-core:1.2.4=default,runtimeClasspath,testRuntimeClasspath
+commons-codec:commons-codec:1.15=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+commons-io:commons-io:1.3.1=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+net.sourceforge.nekohtml:nekohtml:1.9.22=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.httpcomponents:httpclient:4.5.13=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.httpcomponents:httpcore:4.4.14=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.xmlgraphics:batik-constants:1.14=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.xmlgraphics:batik-css:1.14=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.xmlgraphics:batik-i18n:1.14=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.xmlgraphics:batik-shared-resources:1.14=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.xmlgraphics:batik-util:1.14=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.apache.xmlgraphics:xmlgraphics-commons:2.6=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.owasp.antisamy:antisamy:1.6.3=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.slf4j:jcl-over-slf4j:1.7.30=compileClasspath,testCompileClasspath
+org.slf4j:jcl-over-slf4j:1.7.31=default,runtimeClasspath,testRuntimeClasspath
+org.slf4j:slf4j-api:1.7.30=compileClasspath,testCompileClasspath
+org.slf4j:slf4j-api:1.7.31=default,runtimeClasspath,testRuntimeClasspath
+org.slf4j:slf4j-simple:1.7.30=compileClasspath,testCompileClasspath
+xerces:xercesImpl:2.12.1=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+xml-apis:xml-apis-ext:1.3.04=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+xml-apis:xml-apis:1.4.01=compileClasspath,default,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+empty=annotationProcessor,archives,compile,compileOnly,runtime,testAnnotationProcessor,testCompile,testCompileOnly,testRuntime
